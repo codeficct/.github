@@ -6,17 +6,17 @@ Bienvenido a **codeficct**, aqui encontraras algunos recursos de programacion de
 - Modelos de examen.
 
 
-# Ecosistema
+## Ecosistema
 Favorecemos la composicion tanto en como escribimos nuestro codigo como en como lo distribuimos.
 
-# Contenido
+## Contenido
 1. [Introduccion a la informatica](#Introduccion)
 2. Programacion 1
 
-# Introduccion a la informatica
+## Introduccion a la informatica
 - 👩‍💻 Docente: Ing. Mollo
 
-Prácticos resultos
+### Prácticos resueltos
 <table>
   <tr>
     <td>Practico 1</td>
