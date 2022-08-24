@@ -21,7 +21,7 @@ Prácticos resultos
   <tr>
     <td>Practico 1</td>
     <td>
-      <a target="_blank" href="https://drive.google.com/file/d/17pNVzbHrNzvcWico6ENC5BTHh7xvRfQa/view?usp=sharing">Series</a>
+      <a target="_blank" href="https://github.com/codeficct/practico-1-series">Series</a>
     </td>
   </tr>
   <tr>
