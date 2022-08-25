@@ -20,13 +20,13 @@ Favorecemos la composicion tanto en como escribimos nuestro codigo como en como 
 ### Prácticos resueltos
 <table>
   <tr>
-    <td>Practico 1</td>
+    <td>Práctico 1</td>
     <td>
       <a target="_blank" href="https://github.com/codeficct/practico-1-series">Series</a>
     </td>
   </tr>
   <tr>
-    <td>Practico 2</td>
+    <td>Práctico 2</td>
     <td>
       <a target="_blank" href="https://github.com/codeficct/practico-2-graficos">Gráficos - Lineas y Rectángulos Simétricos</a>
     </td>
