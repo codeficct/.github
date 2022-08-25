@@ -2,7 +2,7 @@
 
 Hola 👋
 Bienvenido a **codeficct**, aqui encontraras algunos recursos de programacion de la carrera de ingenieria en sistemas y ingenieria informatica.
-- Practicos resultos.
+- Prácticos resueltos.
 - Modelos de examen.
 - Librerias de desarrollo.
 
