@@ -1,9 +1,8 @@
 ![codeficct-banner](https://user-images.githubusercontent.com/88288135/186325774-50a6a1f1-a0b0-4b21-acdd-8139a283ac9e.png)
 
 Hola 👋
-Bienvenido a **codeficct**, aqui encontraras algunos recursos de programacion de la carrera de ingenieria en sistemas y ingenieria informatica.
+Bienvenido a **codeficct**, aqui encontraras algunos recursos de programacion.
 - Prácticos resueltos.
-- Modelos de examen.
 - Librerias de desarrollo.
 
 
