@@ -8,7 +8,7 @@ Bienvenido a **codeficct**, aqui encontraras algunos recursos de programacion.
 
 ## Ecosistema
 Favorecemos la composicion tanto en como escribimos nuestro codigo como en como lo distribuimos.
-
+<!--
 ## Contenido
 1. [Introduccion a la informatica](#Introduccion)
 2. Programacion 1
@@ -31,3 +31,4 @@ Favorecemos la composicion tanto en como escribimos nuestro codigo como en como 
     </td>
   </tr>
 </table>
+-->
